@@ -7,5 +7,5 @@
 
 import Foundation
 enum Secrets{
-    static let apiKey = "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"
+    static let apiKey = "" //Change this to your OpenAI API key 
 }
